@@ -34,6 +34,7 @@ public class TC_Login_001 extends BaseClass
 		else
 		{
 			Assert.assertTrue(false);
+			System.out.println("test");
 		}
 				
 	}
