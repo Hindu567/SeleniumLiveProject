@@ -43,6 +43,7 @@ public class ReadConfig {
 	{
 		String pwrd= pro.getProperty("password");
 		return pwrd;
+		
 	}
 
 }
